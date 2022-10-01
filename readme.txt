@@ -1,0 +1,1 @@
+THIS IS REACT + WEBPACK boilerplate
